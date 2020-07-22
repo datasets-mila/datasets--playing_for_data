@@ -16,7 +16,7 @@ for file_url in "https://download.visinf.tu-darmstadt.de/data/from_games/data/01
 		"https://download.visinf.tu-darmstadt.de/data/from_games/data/06_labels.zip 06_labels.zip" \
 		"https://download.visinf.tu-darmstadt.de/data/from_games/data/07_images.zip 07_images.zip" \
 		"https://download.visinf.tu-darmstadt.de/data/from_games/data/07_labels.zip 07_labels.zip" \
-		"https://download.visinf.tu-darmstadt.de/data/from_games/data/08_images.zip 08_images.zip" \
+		"http://download.visinf.tu-darmstadt.de/data/from_games/data/08_images.zip 08_images.zip" \
 		"https://download.visinf.tu-darmstadt.de/data/from_games/data/08_labels.zip 08_labels.zip" \
 		"https://download.visinf.tu-darmstadt.de/data/from_games/data/09_images.zip 09_images.zip" \
 		"https://download.visinf.tu-darmstadt.de/data/from_games/data/09_labels.zip 09_labels.zip" \
